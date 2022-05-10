@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647496483 source:c:\users\65909\desktop\c\baud rate converter\main.c
+	<stdio.h>
+	<stdlib.h>
+
